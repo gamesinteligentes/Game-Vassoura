@@ -130,7 +130,25 @@ class BD(object):
     
     
     @staticmethod
+    def getFinalTime(time):
+        
+        return [0,0,0]
+    
+    
+    @staticmethod
     def setDataFases(fase,actions,ficha,time):
+        
+        
+        finalTime = BD.getFinalTime(time)
+        finalTime1 = BD.getFinalTime(actions.firstMotion)
+        finalTime2 = BD.getFinalTime(actions.firstClick)
+        
+        # Divisao do tempo
+        if time < 60 : 
+            hora = 0 
+            minuto = 0
+            segundo = time 
+        
         
         txt = BD.oldtxt()
         
@@ -138,12 +156,14 @@ class BD(object):
         ==================================
                     '''+ fase +'''
         ================================== '''+"\n"+"\n"
-        txt+= '''Tempo total da fase: '''+ str(time) +'''.'''+ "/n"+'''
-        Tempo para a primeira reação:'''+str(actions.firstMotion)+ "/n"+'''
-        Tempo para a primeira reação:'''+str(actions.firstClick)+ "/n"
+        txt+= '''Tempo total da fase: '''+ str(finalTime[2]) + str(finalTime[1]) + str(finalTime[0]) +'''.
+        Tempo para a primeira reação:'''+ str(finalTime1[2]) + str(finalTime1[1]) + str(finalTime1[0]) + '''
+        Tempo para a primeira reação:'''+ str(finalTime2[2]) + str(finalTime2[1]) + str(finalTime2[0]) 
+        
+        txt+="\n"+"\n"
         
         for f in ficha.objectFichas:
-            txt+="Nome: "+f.name + "// Peso:"+ str(f.peso)+ "// Coleção: "+f.colection + "// Tipo:"+ f.type+ "--> Esta foi clicado "+str(f.countOfClicked)+" veze(s)."+"\n"+"\n"            
+            txt+=  f.name + "// Peso:"+ str(f.peso)+ "// " +f.colection + "// "+ f.type+ "--> Clicado "+str(f.countOfClicked)+" veze(s)."+"\n"+"\n"            
         pass
         
         
@@ -252,10 +272,10 @@ class BD(object):
             txt += "Idade : "+ str(BD.formCadastro[2])+"\n"
             txt += "Escola : "+ str(BD.formCadastro[3])+"\n"
             try:
-                Email().send('binhor006@gmail.com', ['binhor009@yahoo.com.br','myriamkitz@gmail.com'], 'Jogo da Vassoura '+str(BD.formCadastro[0]),str(txt), ['src/bd/'+BD.formCadastro[0]+'.txt'])                
+                Email().send('gamesinteligentes@gmail.com', ['gamesinteligentes@gmail.com'], 'Jogo da Vassoura '+str(BD.formCadastro[0]),str(txt), ['src/bd/'+BD.formCadastro[0]+'.txt'])              
             except:
                 try:
-                    Email().send('binhor006@gmail.com', ['binhor009@yahoo.com.br','myriamkitz@gmail.com'], 'Jogo da Vassoura '+str(BD.formCadastro[0]),str(txt), ['src/bd/'+BD.formCadastro[0]+'.txt'])                
+                    Email().send('gamesinteligentes@gmail.com', ['gamesinteligentes@gmail.com'], 'Jogo da Vassoura '+str(BD.formCadastro[0]),str(txt), ['src/bd/'+BD.formCadastro[0]+'.txt'])                
                 except:
                     print "Falha ao enviar o email!"
                     pass

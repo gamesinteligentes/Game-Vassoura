@@ -1,0 +1,719 @@
+
+        ==================================
+        ==================================
+        ================================== 
+
+
+Data : 15-09-2013 15:22:18
+Nome : FabioFIlho HAhaha
+Ano Escolar :  1 Ano
+Idade :  8 anos
+Escola : Publica
+
+        ==================================
+                    Fase1
+        ================================== 
+
+Tempo total da fase: 49.
+        Tempo para a primeira reaÁ„o:14
+        Tempo para a primeira reaÁ„o:14
+
+Ficha do abacaxi// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:2// Miscelania// Partes todo--> Clicado 5 veze(s).
+
+Ficha da coroa do abacaxi// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da macieira// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:2// Miscelania// Partes todo--> Clicado 2 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da bananeira// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:1// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da banana// Peso:2// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da banana// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha do bolo// Peso:1// Miscelania// Figuras todo--> Clicado 1 veze(s).
+
+Ficha das velas do bolo// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da casa// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha do moinho// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha do indio// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da camera// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do piano// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha do pirata// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha do BalÔøΩo// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha da Betoneira// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha do helicÔøΩptero// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha do jet-ski// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha do motoqueiro// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha do trator// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha do trem// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:1// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha dos trilhos// Peso:2// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha dos trilhos// Peso:3// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha do Triciclo// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da Aranha// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Caracol// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Elefante// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:1// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha da tromba do elefante// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Galo// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:2// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha da crista do galo// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Macaco // Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco // Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco// Peso:2// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha do rabo do macaco // Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Papagaio// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Rato// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:3// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha da vaca// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da ubere// Peso:1// Animais// Partes todo--> Clicado 2 veze(s).
+
+Ficha da ubere// Peso:2// Animais// Partes todo--> Clicado 3 veze(s).
+
+Ficha da ubere// Peso:3// Animais// Partes todo--> Clicado 2 veze(s).
+
+
+        ==================================
+        ==================================
+        ================================== 
+
+
+
+        ==================================
+                    Fase 3
+        ================================== 
+
+EU COMAAAMAMAMAMAMAMDHASDHNASKDNASOLIDNLASKD
+        ==================================
+        ==================================
+        ================================== 
+
+
+
+        ==================================
+                    Fase4
+        ================================== 
+
+Tempo total da fase: 74.
+        Tempo para a primeira reaÁ„o:None
+        Tempo para a primeira reaÁ„o:None
+
+Ficha do abacaxi// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da macieira// Peso:1// Miscelania// Figuras todo--> Clicado 1 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bananeira// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bolo// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha da casa// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do moinho// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:2// Miscelania// Partes todo--> Clicado 4 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:3// Miscelania// Partes todo--> Clicado 1 veze(s).
+
+Ficha do indio// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da camera// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do piano// Peso:1// Miscelania// Figuras todo--> Clicado 1 veze(s).
+
+Ficha da partitura// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do pirata// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do BalÔøΩo// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da Betoneira// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do helicÔøΩptero// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do jet-ski// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do motoqueiro// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do trator// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do trem// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Triciclo// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da Aranha// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Caracol// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Elefante// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Galo// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Macaco // Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco // Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco // Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Papagaio// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Rato// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da vaca// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da ubere// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da ubere// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da ubere// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+
+        ==================================
+        ==================================
+        ================================== 
+
+
+
+        ==================================
+                    Fase 6
+        ================================== 
+
+knkajsnkdjanskjnaskjxascascascascas
+        ==================================
+        ==================================
+        ================================== 
+
+
+
+        ==================================
+                    Fase8
+        ================================== 
+
+Tempo total da fase: 95.
+        Tempo para a primeira reaÁ„o:None
+        Tempo para a primeira reaÁ„o:None
+
+Ficha do abacaxi// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da coroa do abacaxi// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da macieira// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da maÔøΩÔøΩ// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bananeira// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da banana// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bolo// Peso:1// Miscelania// Figuras todo--> Clicado 2 veze(s).
+
+Ficha das velas do bolo// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das velas do bolo// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casa// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do telhado da casa// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do moinho// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha das pÔøΩs do catavento// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do indio// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do cocar// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da camera// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da fotografia// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do piano// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha da partitura// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do pirata// Peso:1// Miscelania// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:1// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:2// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do chapÔøΩu// Peso:3// Miscelania// Partes todo--> Clicado 0 veze(s).
+
+Ficha do BalÔøΩo// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da cesta do balÔøΩo// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da Betoneira// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:1// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha da betoneira// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da betoneira// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do helicÔøΩptero// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da hÔøΩlice// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do jet-ski// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do guidon// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do motoqueiro// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do capacete// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do trator// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:1// Transportes// Partes todo--> Clicado 1 veze(s).
+
+Ficha da roda grande// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da roda grande// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do trem// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha dos trilhos// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Triciclo// Peso:2// Transportes// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:1// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:2// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da bandeirola do triciclo// Peso:3// Transportes// Partes todo--> Clicado 0 veze(s).
+
+Ficha da Aranha// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da teia da aranha// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Caracol// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da casca do caracol// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Elefante// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:1// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha da tromba do elefante// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da tromba do elefante// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Galo// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da crista do galo// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Macaco // Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco // Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do rabo do macaco// Peso:2// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha do rabo do macaco // Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Papagaio// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do bico do papagaio// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha do Rato// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:1// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha das orelhas do rato// Peso:2// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha das orelhas do rato// Peso:3// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da vaca// Peso:3// Animais// Figuras todo--> Clicado 0 veze(s).
+
+Ficha da ubere// Peso:1// Animais// Partes todo--> Clicado 0 veze(s).
+
+Ficha da ubere// Peso:2// Animais// Partes todo--> Clicado 1 veze(s).
+
+Ficha da ubere// Peso:3// Animais// Partes todo--> Clicado 2 veze(s).
+
+
+        ==================================
+        ==================================
+        ================================== 
+
+
+
+
+
+        
+        Interrup√ß√£o !!
+        ==================================
+                Fase10
+        ================================== 
+
+        
+                O jogador saiu do jogo admitindo a seguinte frase: N√£o Quero mais jogar;
+
+        
+         Final da Interrup√ß√£o !!
+        ==================================
+        
+

@@ -115,6 +115,7 @@ class Game(object):
 
     def nextState(self):
         
+       
         if self.CurrentState.NextCurrentState == "EndGame":
             self.CurrentState = self.State[self.CurrentState.NextCurrentState]
             return
@@ -125,23 +126,30 @@ class Game(object):
         else:
             self.State[self.CurrentState.NextCurrentState].draw(self.main.tela)
             
+            
             if not self.CurrentState.effect == None:
                 self.CurrentState.updateState = Animation(self.CurrentState, self.State[self.CurrentState.NextCurrentState],self.main.telaCurrent,self.main.telaNext,self.CurrentState.effect).drawEffect(self.main.baseSurface,self.dt)
+                
             else:
                 self.CurrentState = self.State[self.CurrentState.NextCurrentState] 
                 self.CurrentState.updateState = False
+                try:
+                    self.CurrentState.quest.updateState = False           
+                except:
+                    pass
+                
                 return
 
         self.CurrentState = self.State[self.CurrentState.NextCurrentState]
         
         try:
             self.CurrentState.NextCurrentState = self.CurrentState.StateTemp[1]
-            self.CurrentState.updateState = False
+            self.CurrentState.updateState = False            
         except:
             pass
         try:
             self.CurrentState.quest.NextCurrentState = self.CurrentState.quest.StateTemp[0]
-            self.CurrentState.quest.updateState = False
+            self.CurrentState.quest.updateState = False           
         except:
             pass
         try :
@@ -223,7 +231,7 @@ class Out():
         self.updateState = True
         self.NextCurrentState = self.faseCur
         self.onePrintBackGround = True
-
+        
 
     def out (self,stateOut):
         self.updateState = True
@@ -274,8 +282,6 @@ class Out():
             
         self.window.draw(tela)
         DrawVector(self.MainObjects,tela)
-
-        print self.faseCur
         pass
      
 
@@ -296,6 +302,7 @@ class Out():
         pass
 
     def update(self,dt):
+        
         pass
     
     pass
@@ -608,6 +615,7 @@ class Fase1(GameState):
 
     def out (self):
         self.updateState = True
+        
         self.NextCurrentState = "Out"
         Sound("src/Fases/Botoes/btnSair.ogg").play()
         pygame.time.wait(200)
@@ -781,6 +789,8 @@ class Fase4(GameState):
         self.effect = 0
         Music.stop()
         Music("src/Fases/TellMe/fundo6.ogg").play(0)
+        
+        BD.setDataFases(self.CurrentState,self.actions, self.ficha,self.time.get_time())
         pass
 
     def help (self):
@@ -789,14 +799,8 @@ class Fase4(GameState):
         Sound("src/Fases/Botoes/btnAjuda.ogg").play()
         pass
 
-
-
-    def base(self):
-
-        self.reviewBalance()
-
     
-    def reviewBalance(self):
+    def base(self):
         
         #Vass and Base
 
@@ -1292,6 +1296,7 @@ class Fase8(GameState):
         self.effect = 0
         Music.stop()
         Music("src/Fases/TellMe/fundo10.ogg").play(0)
+        BD.setDataFases(self.CurrentState,self.actions, self.ficha,self.time.get_time())
         pass
 
     def back (self):
@@ -1578,13 +1583,9 @@ class TellMe:
         self.backGround.draw(tela)
         DrawVector(self.MainObjects,tela)
         self.FormFase.screen()
-
-
-        print self.NextCurrentState
         pass
 
     def event(self,event):
-
         
             if event.type == pygame.MOUSEMOTION:
                 for q in self.MainObjects:

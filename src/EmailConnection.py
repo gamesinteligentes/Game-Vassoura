@@ -52,7 +52,7 @@ class Email(object):
        smtp.starttls()
        smtp.ehlo()
     
-       smtp.login('binhor006@gmail.com', '2b4i6n4h6o')
+       smtp.login('gamesinteligentes@gmail.com', 'gamesinteligentes123')
     
        smtp.sendmail(de, para, msg.as_string())
     
