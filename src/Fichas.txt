@@ -1,0 +1,117 @@
+Nº - PESO - Categoria - Tipo de figura - Nome da FICHA
+
+01 - PESO 1 - Animais - Figura Parte - Ficha da teia da aranha
+02 - PESO 1 - Animais - Figura Parte - Ficha da casca do caracol
+03 - PESO 1 - Animais - Figura Parte - Ficha da tromba do elefante
+04 - PESO 1 - Animais - Figura Parte - Ficha da crista do galo
+05 - PESO 1 - Animais - Figura Parte - Ficha do rabo do macaco 
+06 - PESO 1 - Animais - Figura Parte - Ficha do bico do papagaio
+07 - PESO 1 - Animais - Figura Parte - Ficha das orelhas do rato
+08 - PESO 1 - Animais - Figura Parte - Ficha da úbere
+
+09 - PESO 1 - Miscelania - Figura Todo - Ficha do abacaxi
+10 - PESO 1 - Miscelania - Figura Todo - Ficha da macieira
+11 - PESO 1 - Miscelania - Figura Todo - Ficha da bananeira
+12 - PESO 1 - Miscelania - Figura Todo - Ficha do bolo
+13 - PESO 1 - Miscelania - Figura Todo - Ficha da casa
+14 - PESO 1 - Miscelania - Figura Todo - Ficha do moinho
+15 - PESO 1 - Miscelania - Figura Todo - Ficha do indio
+16 - PESO 1 - Miscelania - Figura Todo - Ficha da camêra
+17 - PESO 1 - Miscelania - Figura Todo - Ficha do piano
+18 - PESO 1 - Miscelania - Figura Todo - Ficha do pirata
+
+19 - PESO 1 - Miscelania - Figura Parte - Ficha da coroa do abacaxi
+20 - PESO 1 - Miscelania - Figura Parte - Ficha da maçã
+21 - PESO 1 - Miscelania - Figura Parte - Ficha da banana
+22 - PESO 1 - Miscelania - Figura Parte - Ficha das velas do bolo
+23 - PESO 1 - Miscelania - Figura Parte - Ficha do telhado da casa
+24 - PESO 1 - Miscelania - Figura Parte - Ficha das pás do catavento
+25 - PESO 1 - Miscelania - Figura Parte - Ficha do cocar
+26 - PESO 1 - Miscelania - Figura Parte - Ficha da fotografia
+27 - PESO 1 - Miscelania - Figura Parte - Ficha da partitura
+28 - PESO 1 - Miscelania - Figura Parte - Ficha do chapéu
+
+29 - PESO 1 - Transportes - Figura Parte - Ficha da cesta do balão
+30 - PESO 1 - Transportes - Figura Parte - Ficha da betoneira
+31 - PESO 1 - Transportes - Figura Parte - Ficha da hélice
+32 - PESO 1 - Transportes - Figura Parte - Ficha do guidon
+33 - PESO 1 - Transportes - Figura Parte - Ficha do capacete
+34 - PESO 1 - Transportes - Figura Parte - Ficha da roda grande
+35 - PESO 1 - Transportes - Figura Parte - Ficha dos trilhos
+36 - PESO 1 - Transportes - Figura Parte - Ficha da bandeirola do triciclo
+
+37 - PESO 2 - Animais - Figura Parte - Ficha da teia da aranha
+38 - PESO 2 - Animais - Figura Parte - Ficha da casca do caracol
+39 - PESO 2 - Animais - Figura Parte - Ficha da tromba do elefante
+40 - PESO 2 - Animais - Figura Parte - Ficha da crista do galo
+41 - PESO 2 - Animais - Figura Parte - Ficha do rabo do macaco 
+42 - PESO 2 - Animais - Figura Parte - Ficha do bico do papagaio
+43 - PESO 2 - Animais - Figura Parte - Ficha das orelhas do rato
+44 - PESO 2 - Animais - Figura Parte - Ficha da úbere
+
+45 - PESO 2 - Miscelania - Figura Parte - Ficha das velas do bolo
+46 - PESO 2 - Miscelania - Figura Parte - Ficha do telhado da casa
+47 - PESO 2 - Miscelania - Figura Parte - Ficha das pás do catavento
+48 - PESO 2 - Miscelania - Figura Parte - Ficha do cocar
+49 - PESO 2 - Miscelania - Figura Parte - Ficha da fotografia
+50 - PESO 2 - Miscelania - Figura Parte - Ficha da partitura
+51 - PESO 2 - Miscelania - Figura Parte - Ficha do chapéu
+52 - PESO 2 - Miscelania - Figura Parte - Ficha da coroa do abacaxi
+53 - PESO 2 - Miscelania - Figura Parte - Ficha da maçã
+54 - PESO 2 - Miscelania - Figura Parte - Ficha da banana
+
+55 - PESO 2 - Transportes - Figura Todo - Ficha do balão
+56 - PESO 2 - Transportes - Figura Todo - Ficha da betoneira
+57 - PESO 2 - Transportes - Figura Todo - Ficha do helicoptéro
+58 - PESO 2 - Transportes - Figura Todo - Ficha do jet-ski
+59 - PESO 2 - Transportes - Figura Todo - Ficha do motoqueiro
+60 - PESO 2 - Transportes - Figura Todo - Ficha do trator
+61 - PESO 2 - Transportes - Figura Todo - Ficha do trem
+62 - PESO 2 - Transportes - Figura Todo - Ficha do triciclo 
+
+63 - PESO 2 - Transportes - Figura Parte - Ficha da cesta do balão
+64 - PESO 2 - Transportes - Figura Parte - Ficha da betoneira
+65 - PESO 2 - Transportes - Figura Parte - Ficha da hélice
+66 - PESO 2 - Transportes - Figura Parte - Ficha do guidon
+67 - PESO 2 - Transportes - Figura Parte - Ficha do capacete
+68 - PESO 2 - Transportes - Figura Parte - Ficha da roda grande
+69 - PESO 2 - Transportes - Figura Parte - Ficha dos trilhos
+70 - PESO 2 - Transportes - Figura Parte - Ficha da bandeirola do triciclo
+
+71 - PESO 3 - Animais - Figura Todo - Ficha da aranha
+72 - PESO 3 - Animais - Figura Todo - Ficha do caracol
+73 - PESO 3 - Animais - Figura Todo - Ficha do elefante
+74 - PESO 3 - Animais - Figura Todo - Ficha do galo
+75 - PESO 3 - Animais - Figura Todo - Ficha do macaco 
+76 - PESO 3 - Animais - Figura Todo - Ficha do papagaio
+77 - PESO 3 - Animais - Figura Todo - Ficha do rato
+78 - PESO 3 - Animais - Figura Todo - Ficha da vaca
+
+79 - PESO 3 - Animais - Figura Parte - Ficha da teia da aranha
+80 - PESO 3 - Animais - Figura Parte - Ficha da casca do caracol
+81 - PESO 3 - Animais - Figura Parte - Ficha da tromba do elefante
+82 - PESO 3 - Animais - Figura Parte - Ficha da crista do galo
+83 - PESO 3 - Animais - Figura Parte - Ficha do rabo do macaco 
+84 - PESO 3 - Animais - Figura Parte - Ficha do bico do papagaio
+85 - PESO 3 - Animais - Figura Parte - Ficha das orelhas do rato
+86 - PESO 3 - Animais - Figura Parte - Ficha da úbere
+
+87 - PESO 3 - Miscelania - Figura Parte - Ficha da coroa do abacaxi
+88 - PESO 3 - Miscelania - Figura Parte - Ficha da maçã
+89 - PESO 3 - Miscelania - Figura Parte - Ficha da banana
+90 - PESO 3 - Miscelania - Figura Parte - Ficha das velas do bolo
+91 - PESO 3 - Miscelania - Figura Parte - Ficha do telhado da casa
+92 - PESO 3 - Miscelania - Figura Parte - Ficha das pás do catavento
+93 - PESO 3 - Miscelania - Figura Parte - Ficha do cocar
+94 - PESO 3 - Miscelania - Figura Parte - Ficha da fotografia
+95 - PESO 3 - Miscelania - Figura Parte - Ficha da partitura
+96 - PESO 3 - Miscelania - Figura Parte - Ficha do chapéu
+
+97 - PESO 3 - Transportes - Figura Parte - Ficha da cesta do balão
+98 - PESO 3 - Transportes - Figura Parte - Ficha da betoneira
+99 - PESO 3 - Transportes - Figura Parte - Ficha da hélice
+100 - PESO 3 - Transportes - Figura Parte - Ficha do guidon
+101 - PESO 3 - Transportes - Figura Parte - Ficha do capacete
+102 - PESO 3 - Transportes - Figura Parte - Ficha da roda grande
+103 - PESO 3 - Transportes - Figura Parte - Ficha dos trilhos
+104 - PESO 3 - Transportes - Figura Parte - Ficha da bandeirola do triciclo
