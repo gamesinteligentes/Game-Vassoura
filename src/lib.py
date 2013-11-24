@@ -157,8 +157,8 @@ class BD(object):
                     '''+ fase +'''
         ================================== '''+"\n"+"\n"
         txt+= '''Tempo total da fase: '''+ str(finalTime[2]) + str(finalTime[1]) + str(finalTime[0]) +'''.
-        Tempo para a primeira reação:'''+ str(finalTime1[2]) + str(finalTime1[1]) + str(finalTime1[0]) + '''
-        Tempo para a primeira reação:'''+ str(finalTime2[2]) + str(finalTime2[1]) + str(finalTime2[0]) 
+        Tempo para a primeira reaï¿½ï¿½o:'''+ str(finalTime1[2]) + str(finalTime1[1]) + str(finalTime1[0]) + '''
+        Tempo para a primeira reaï¿½ï¿½o:'''+ str(finalTime2[2]) + str(finalTime2[1]) + str(finalTime2[0]) 
         
         txt+="\n"+"\n"
         
@@ -821,16 +821,16 @@ class Music():
         self.path = path
 
     def play(self, loop = 0,vol = 0.4):
-        '''
+      
         pygame.mixer.music.load(self.path)
         pygame.mixer.music.set_volume(vol)
         pygame.mixer.music.play(loop)
-        '''
+     
         pass
 
     @staticmethod
     def pause():        
-        #pygame.mixer.music.pause()
+        pygame.mixer.music.pause()
         pass
 
     @staticmethod
@@ -845,8 +845,8 @@ class Sound():
         pass
 
     def play (self,loop = 0, vol = 1.0):
-        #self.sound.set_volume(vol)
-        #self.sound.play(loop)
+        self.sound.set_volume(vol)
+        self.sound.play(loop)
         pass
 
 
