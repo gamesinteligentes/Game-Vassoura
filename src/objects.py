@@ -57,7 +57,7 @@ class Actions:
         '''
         for f in ficha:
             if f.state== "Clicking":
-                #self.faseBD.append("Nome: "+f.name + "// Peso:"+ str(f.peso)+ "// Cole��o: "+f.colection + "// Tipo:"+ f.type+ "--> Esta foi clicado  )            
+                #self.faseBD.append("Nome: "+f.name + "// Peso:"+ str(f.peso)+ "// Coleção: "+f.colection + "// Tipo:"+ f.type+ "--> Esta foi clicado  )            
         pass
         '''
     
@@ -225,10 +225,10 @@ class Vassoura:
             self.acrescimoDeLargura=0           
 
         if faseCur == "Fase8":
-            self.posVassoura = [82,350]
-            #self.posVassoura = [82,294]
-            #src = "src/Fases/Fase8/0.png"
-            src = "src/Fases/Fase4/0.png" 
+            #self.posVassoura = [82,350]
+            self.posVassoura = [82,294]
+            src = "src/Fases/Fase8/0.png"
+            #src = "src/Fases/Fase4/0.png" 
             #self.acrescimoDeLargura = 30
 
 
@@ -239,12 +239,12 @@ class Vassoura:
             
         self.vas = ObjectEvent((self.posVassoura[0],self.posVassoura[1]),src,None,None,onClickVas)
 
-        self.objectNull = Object("src/Fases/Fichas/eixo.png")
+        #self.objectNull = Object("src/Fases/Fichas/eixo.png")
 
     def draw(self,tela):
         self.vas.draw(tela)
-        self.objectNull.rect.x,self.objectNull.rect.y=self.vas.rect.center
-        self.objectNull.draw(tela)
+        #self.objectNull.rect.x,self.objectNull.rect.y=self.vas.rect.center
+        #self.objectNull.draw(tela)
         #print self.objectNull.rect.x
         pass
 
@@ -540,18 +540,18 @@ class Fichas:
                             'Ficha do piano',
                             'Ficha do pirata',                            
                             'Ficha da coroa do abacaxi',
-                            'Ficha da ma��',                            
+                            'Ficha da maï¿½ï¿½',                            
                             'Ficha da banana',
                             'Ficha das velas do bolo',
                             'Ficha do telhado da casa',
-                            'Ficha das p�s do catavento',
+                            'Ficha das pï¿½s do catavento',
                             'Ficha do cocar',                            
                             'Ficha da fotografia',
                             'Ficha da partitura',
-                            'Ficha do chap�u',                            
-                            'Ficha da cesta do bal�o',
+                            'Ficha do chapï¿½u',                            
+                            'Ficha da cesta do balï¿½o',
                             'Ficha da betoneira',
-                            'Ficha da h�lice',
+                            'Ficha da hï¿½lice',
                             'Ficha do guidon',
                             'Ficha do capacete',
                             'Ficha da roda grande',
@@ -567,25 +567,25 @@ class Fichas:
                             'Ficha da ubere',                            
                             'Ficha das velas do bolo',
                             'Ficha do telhado da casa',
-                            'Ficha das p�s do catavento',
+                            'Ficha das pï¿½s do catavento',
                             'Ficha do cocar',
                             'Ficha da fotografia',
                             'Ficha da partitura',
-                            'Ficha do chap�u',
+                            'Ficha do chapï¿½u',
                             'Ficha da coroa do abacaxi',
-                            'Ficha da ma��',
+                            'Ficha da maï¿½ï¿½',
                             'Ficha da banana',                            
-                            'Ficha do Bal�o',                            
+                            'Ficha do Balï¿½o',                            
                             'Ficha da Betoneira',                            
-                            'Ficha do helic�ptero',
+                            'Ficha do helicï¿½ptero',
                             'Ficha do jet-ski',
                             'Ficha do motoqueiro',
                             'Ficha do trator',                            
                             'Ficha do trem',
                             'Ficha do Triciclo',                            
-                            'Ficha da cesta do bal�o',
+                            'Ficha da cesta do balï¿½o',
                             'Ficha da betoneira',
-                            'Ficha da h�lice',
+                            'Ficha da hï¿½lice',
                             'Ficha do guidon',
                             'Ficha do capacete',
                             'Ficha da roda grande',
@@ -608,18 +608,18 @@ class Fichas:
                             'Ficha das orelhas do rato',
                             'Ficha da ubere',                            
                             'Ficha da coroa do abacaxi',
-                            'Ficha da ma��',
+                            'Ficha da maï¿½ï¿½',
                             'Ficha da banana',
                             'Ficha das velas do bolo',
                             'Ficha do telhado da casa',
-                            'Ficha das p�s do catavento',
+                            'Ficha das pï¿½s do catavento',
                             'Ficha do cocar',                            
                             'Ficha da fotografia',
                             'Ficha da partitura',
-                            'Ficha do chap�u',                            
-                            'Ficha da cesta do bal�o',
+                            'Ficha do chapï¿½u',                            
+                            'Ficha da cesta do balï¿½o',
                             'Ficha da betoneira',
-                            'Ficha da h�lice',
+                            'Ficha da hï¿½lice',
                             'Ficha do guidon',                            
                             'Ficha do capacete',
                             'Ficha da roda grande',
@@ -710,7 +710,7 @@ class Fichas:
         for a in range(len(self.nameFichas)):  
                 if self.nameFichas[a].find("macieira") != -1:
                     self.orderFichas.append(a)
-                if self.nameFichas[a].find("ma��") != -1:
+                if self.nameFichas[a].find("maï¿½ï¿½") != -1:
                     self.orderFichas.append(a)    
             
         for a in range(len(self.nameFichas)):  
@@ -754,11 +754,11 @@ class Fichas:
         for a in range(len(self.nameFichas)):  
                 if self.nameFichas[a].find("pirata") != -1:
                     self.orderFichas.append(a)
-                if self.nameFichas[a].find("chap�u") != -1:
+                if self.nameFichas[a].find("chapï¿½u") != -1:
                     self.orderFichas.append(a)
                     
         for a in range(len(self.nameFichas)):  
-                if self.nameFichas[a].find("Bal�o") != -1:
+                if self.nameFichas[a].find("Balï¿½o") != -1:
                     self.orderFichas.append(a)
         for a in range(len(self.nameFichas)):  
                 if self.nameFichas[a].find("cesta") != -1:
@@ -772,10 +772,10 @@ class Fichas:
                     self.orderFichas.append(a)
                     
         for a in range(len(self.nameFichas)):  
-                if self.nameFichas[a].find("helic�ptero") != -1:
+                if self.nameFichas[a].find("helicï¿½ptero") != -1:
                     self.orderFichas.append(a)
         for a in range(len(self.nameFichas)):
-                if self.nameFichas[a].find("h�lice") != -1:
+                if self.nameFichas[a].find("hï¿½lice") != -1:
                     self.orderFichas.append(a)
                     
         for a in range(len(self.nameFichas)):  
