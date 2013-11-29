@@ -185,8 +185,8 @@ class Load(GameState):
         
         self.NextCurrentState = Game.faseCur
         
-        self.text1 = Text("N�o h� conex�o com a internet! Se continuar, os registros ter�o de ser salvos manualmente.", 50, 70, 30, False, True,(255,0,0),(255,255,255),True)
-        self.text2 = Text("Pressione Esc para sair. Caso contr�rio o jogo come�ar� em ", 150, 100, 30, False, True,(255,0,0),(255,255,255),True)  
+        self.text1 = Text("Nï¿½o hï¿½ conexï¿½o com a internet! Se continuar, os registros terï¿½o de ser salvos manualmente.", 50, 70, 30, False, True,(255,0,0),(255,255,255),True)
+        self.text2 = Text("Pressione Esc para sair. Caso contrï¿½rio o jogo comeï¿½arï¿½ em ", 150, 100, 30, False, True,(255,0,0),(255,255,255),True)  
         self.number = 5
         self.txtNumber = Text('5', 750, 100, 30, False, True,(255,0,0),(144,154,144),True)
         self.warm = False  
@@ -265,9 +265,9 @@ class Out():
                                         "src/Fases/Sair/btnSairDesisto_move.png",None,self.out) ]
         
         
-        self.MainObjects[1].setParameter('Não Quero mais jogar;')
-        self.MainObjects[2].setParameter('Terminei mas acho que está errado.')
-        self.MainObjects[3].setParameter('Terminei mas acho que está certo.')
+        self.MainObjects[1].setParameter('NÃ£o Quero mais jogar;')
+        self.MainObjects[2].setParameter('Terminei mas acho que estÃ¡ errado.')
+        self.MainObjects[3].setParameter('Terminei mas acho que estÃ¡ certo.')
         self.MainObjects[4].setParameter('Desisto.')
         
         self.onePrintBackGround = True
@@ -976,7 +976,7 @@ class Fase4(GameState):
                        
                        ObjectPoint(srcThings,
                                    self.stickBroom.rect.x+self.stickBroom.image.get_width(),
-                                        self.stickBroom.rect.y-self.stickBroom.image.get_height()),]
+                                        self.stickBroom.rect.y-self.stickBroom.image.get_height())]
             
             
             
@@ -996,7 +996,7 @@ class Fase4(GameState):
 
         DrawVector(self.MainObjects,tela)
         
-        self.balance.draw(tela, self.ficha.eixosLeft,self.ficha.eixosRight)
+        #self.balance.draw(tela, self.ficha.eixosLeft,self.ficha.eixosRight)
 
         DrawVector(self.OthersObjects, tela)
 
@@ -1421,7 +1421,7 @@ class Fase8(GameState):
 
         self.ficha.update(dt,self.actions)
 
-        self.vas.update(self.ficha,self.base,dt)
+        #self.vas.update(self.ficha,self.base,dt)
                                     
         #print self.ficha.weightLeftPlugged [0][0],self.ficha.resultWeigth
         
